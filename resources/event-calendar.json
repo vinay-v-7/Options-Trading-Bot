@@ -1,0 +1,11 @@
+[
+  {"name": "RBI Monetary Policy", "date": "2026-06-06", "blackout_days": 2, "scope": "index"},
+  {"name": "RBI Monetary Policy", "date": "2026-08-08", "blackout_days": 2, "scope": "index"},
+  {"name": "RBI Monetary Policy", "date": "2026-10-06", "blackout_days": 2, "scope": "index"},
+  {"name": "RBI Monetary Policy", "date": "2026-12-04", "blackout_days": 2, "scope": "index"},
+  {"name": "US Federal Reserve Decision", "date": "2026-06-17", "blackout_days": 1, "scope": "index"},
+  {"name": "US Federal Reserve Decision", "date": "2026-07-29", "blackout_days": 1, "scope": "index"},
+  {"name": "US Federal Reserve Decision", "date": "2026-09-16", "blackout_days": 1, "scope": "index"},
+  {"name": "US Federal Reserve Decision", "date": "2026-11-04", "blackout_days": 1, "scope": "index"},
+  {"name": "US Federal Reserve Decision", "date": "2026-12-16", "blackout_days": 1, "scope": "index"}
+]

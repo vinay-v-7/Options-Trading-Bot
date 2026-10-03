@@ -1,0 +1,93 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE / local tooling
+.idea/
+.vscode/
+.cursor/
+.agent/
+.kilo/
+.kilocode/
+.pytest_cache/
+
+# Type checkers
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
+.pytype/
+
+# Project runtime state (never commit)
+data/
+logs/
+*.log
+.data_cache.json
+universe_cache.json
+security_id_list.csv
+
+# Personal / generated (keep out of public clones)
+reviews/
+research-&-notes/
+scratch/
+Fundamentals/
+graphify-out/
+knowledge/
+docs/
+
+# JSON caches by default; allow the shipped event calendar
+*.json
+!resources/event-calendar.json
+!pyproject.toml
